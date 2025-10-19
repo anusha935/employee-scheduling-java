@@ -57,4 +57,3 @@ You can edit the Main.java file to add or remove employees, or change shift pref
 
 Recompile and run to view the updated schedule.
 
-Notes
